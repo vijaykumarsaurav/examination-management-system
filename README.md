@@ -31,4 +31,5 @@ SOFTWARE		JCREATOR
 RDBMS		MYSQL
 OPRATING SYSTEM		WINDOS XP, SP-2
 
-for more details or documentation https://docs.google.com/document/d/12ImVh-eYygHGBDFoad5h7sCSqUD9yNUDidumiToUvqg/edit?usp=sharing
+For documentation https://docs.google.com/document/d/12ImVh-eYygHGBDFoad5h7sCSqUD9yNUDidumiToUvqg/edit?usp=sharing
+For more details  https://drive.google.com/drive/folders/0B4KDR2MbWf_UMTBBUmpjYUVVWXM?usp=sharing
